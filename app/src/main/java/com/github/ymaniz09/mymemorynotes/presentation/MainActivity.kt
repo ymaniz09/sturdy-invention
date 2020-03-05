@@ -1,4 +1,4 @@
-package com.github.ymaniz09.mymemorynotes.prensetation
+package com.github.ymaniz09.mymemorynotes.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
