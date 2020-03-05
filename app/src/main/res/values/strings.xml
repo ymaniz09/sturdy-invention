@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MyMemoryNotes</string>
+    <string name="content_edit_text_hint">Content</string>
+    <string name="title_edit_text_hint">Title</string>
 </resources>
