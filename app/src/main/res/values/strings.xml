@@ -7,4 +7,7 @@
     <string name="delete_note_title">Delete note</string>
     <string name="delete_note_positive_button">Yes</string>
     <string name="delete_note_negative_button">Cancel</string>
+    <string name="note_item_title">Title</string>
+    <string name="note_item_content">Content</string>
+    <string name="note_item_last_updated">Last updated</string>
 </resources>
